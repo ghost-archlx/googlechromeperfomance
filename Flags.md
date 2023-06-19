@@ -4,9 +4,6 @@ Para que se faça as alterações das flags, tem que acessar chrome://flags
 
 ## Performace
 
-<details><summary>Enabled</summary><p>
-
-
 * #back-forward-cache - **Enabled force caching all pages (experimntal)**
 * #enable-drdc
 * #enable-parallel-downloading
@@ -16,4 +13,4 @@ Para que se faça as alterações das flags, tem que acessar chrome://flags
 	* Usar esta flag em processadores Skylake ou mais novos
 * #quick-intensive-throttling-after-loading
 
-</p></details>
+
